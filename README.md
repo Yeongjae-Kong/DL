@@ -1,1 +1,2 @@
-21년도 임성훈 교수님께서 진행한 딥러닝 개론 과목을 수강하며 진행한 프로젝트 정리
+A project summary conducted by Professor Lim Sung-hoon in 2021 while taking an introductory deep learning course.
+Implement 3-layer NN, CNN, RNN, and LSTM without deep learning libraries.
